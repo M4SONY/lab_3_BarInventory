@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.18">
+<file name="D:\barImventory_lab4-master\barImventory_lab4-master\barInventory\src\main\java\ua\lviv\iot\barInventory\Main.java">
+</file>
+<file name="D:\barImventory_lab4-master\barImventory_lab4-master\barInventory\src\main\java\ua\lviv\iot\barInventory\manager\BarInventoryManager.java">
+</file>
+<file name="D:\barImventory_lab4-master\barImventory_lab4-master\barInventory\src\main\java\ua\lviv\iot\barInventory\manager\IBarInventoryManager.java">
+</file>
+<file name="D:\barImventory_lab4-master\barImventory_lab4-master\barInventory\src\main\java\ua\lviv\iot\barInventory\model\BarInventory.java">
+</file>
+<file name="D:\barImventory_lab4-master\barImventory_lab4-master\barInventory\src\main\java\ua\lviv\iot\barInventory\model\Corkscrew.java">
+</file>
+<file name="D:\barImventory_lab4-master\barImventory_lab4-master\barInventory\src\main\java\ua\lviv\iot\barInventory\model\Dimensions.java">
+</file>
+<file name="D:\barImventory_lab4-master\barImventory_lab4-master\barInventory\src\main\java\ua\lviv\iot\barInventory\model\IceBucket.java">
+</file>
+<file name="D:\barImventory_lab4-master\barImventory_lab4-master\barInventory\src\main\java\ua\lviv\iot\barInventory\model\Material.java">
+</file>
+<file name="D:\barImventory_lab4-master\barImventory_lab4-master\barInventory\src\main\java\ua\lviv\iot\barInventory\model\ProducingCountry.java">
+</file>
+<file name="D:\barImventory_lab4-master\barImventory_lab4-master\barInventory\src\main\java\ua\lviv\iot\barInventory\model\Specifics.java">
+</file>
+<file name="D:\barImventory_lab4-master\barImventory_lab4-master\barInventory\src\main\java\ua\lviv\iot\barInventory\model\Type.java">
+</file>
+</checkstyle>
