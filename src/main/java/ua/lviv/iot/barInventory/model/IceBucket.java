@@ -10,8 +10,8 @@ public class IceBucket extends BarInventory {
 
     }
 
-    public IceBucket(double price, int guarantee, Dimensions dimensions, ProducingCountry country, int completeSet) {
-        super(price, guarantee, dimensions, country);
+    public IceBucket(double price, int guarantee, Dimensions dimensions, ProducingCountry country, int weight, int completeSet) {
+        super(price, guarantee, dimensions, country, weight);
         this.completeSet = completeSet;
     }
 

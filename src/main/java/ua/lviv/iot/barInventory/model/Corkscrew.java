@@ -9,9 +9,9 @@ public class Corkscrew extends BarInventory {
     public Corkscrew() {
     }
 
-    public Corkscrew(double price, int guarantee, Dimensions dimensions, ProducingCountry country, int numberDetails,
+    public Corkscrew(double price, int guarantee, Dimensions dimensions, ProducingCountry country, int weight, int numberDetails,
             String producer) {
-        super(price, guarantee, dimensions, country);
+        super(price, guarantee, dimensions, country, weight);
         this.numberDetails = numberDetails;
         this.producer = producer;
     }

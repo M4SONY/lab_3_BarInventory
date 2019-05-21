@@ -5,9 +5,10 @@ import ua.lviv.iot.barInventory.model.BarInventory;
 
 public interface IBarInventoryManager {
 
-    List<BarInventory> findByPrice(List<BarInventory> inventory, double price);
+	List<BarInventory> findByPrice(List<BarInventory> inventory, double price);
 
-    List<BarInventory> sortByWeight(List<BarInventory> inventory, boolean reverse);
+	List<BarInventory> sortByWeight(List<BarInventory> inventory, boolean reverse);
 
-    List<BarInventory> sortByPrice(List<BarInventory> inventory, boolean reverse);
+	List<BarInventory> sortByPrice(List<BarInventory> inventory, boolean reverse);
+
 }

@@ -12,17 +12,18 @@ public class BarInventory {
 
     }
 
-    public BarInventory(double price, int guarantee, Dimensions dimensions, ProducingCountry country) {
+    public BarInventory(double price, int guarantee, Dimensions dimensions, ProducingCountry country, int weight) {
         super();
         this.price = price;
         this.guarantee = guarantee;
         this.dimensions = dimensions;
         this.country = country;
+        this.weight = weight;
     }
 
     public String toString() {
         return "BarInventory{" + " Price " + price + "," + " Guarantee " + guarantee + "," + " Dimensions " + dimensions
-                + "," + " ProducingCountry " + country;
+                + "," + " ProducingCountry " + country + "," + "weight " + weight;
     }
 
     public double getPrice() {
