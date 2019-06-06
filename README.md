@@ -1,1 +1,2 @@
-# lab_3_BarInventory
+# IoTLab3Java
+Securities class realization
