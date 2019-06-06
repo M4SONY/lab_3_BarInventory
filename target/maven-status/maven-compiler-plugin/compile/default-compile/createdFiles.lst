@@ -1,0 +1,10 @@
+ua\lviv\iot\barInventory\manager\IBarInventoryManager.class
+ua\lviv\iot\barInventory\model\Dimensions.class
+ua\lviv\iot\barInventory\model\Type.class
+ua\lviv\iot\barInventory\model\ProducingCountry.class
+ua\lviv\iot\barInventory\model\IceBucket.class
+ua\lviv\iot\barInventory\manager\BarInventoryManager.class
+ua\lviv\iot\barInventory\model\Material.class
+ua\lviv\iot\barInventory\model\Corkscrew.class
+ua\lviv\iot\barInventory\model\BarInventory.class
+ua\lviv\iot\barInventory\model\Specifics.class
